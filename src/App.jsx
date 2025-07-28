@@ -1,15 +1,15 @@
 import { useState } from 'react'
 import './App.css'
+import Body from './Components/Body'
+import Header from './Components/Header'
 
 function App() {
 
   return (
     <>
-      <div className="text-3xl font-bold text-red-500">
-          Namaste🙏 EveryOne let's Build Netflix GPT
-      </div>
-    </>
-  )
+  <Body/>
+  </>)
+
 }
 
 export default App

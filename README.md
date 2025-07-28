@@ -4,6 +4,8 @@
 
 - TailWind CSS
 - daisy UI Components
+- Header
+- Login Form
 
 
 # Features:

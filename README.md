@@ -6,6 +6,10 @@
 - daisy UI Components
 - Header
 - Login Form
+- Routing of APP
+- Sign up Form
+- Form validation 
+- useRef Hook
 
 
 # Features:
